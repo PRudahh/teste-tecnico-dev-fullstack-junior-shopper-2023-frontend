@@ -18,7 +18,7 @@ Esta é a camada de interface do sistema de atualização massiva de preços da 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/shopper-frontend.git
+git clone https://github.com/PRudahh/teste-tecnico-dev-fullstack-junior-shopper-2023-frontend
 cd shopper-frontend
 ```
 
